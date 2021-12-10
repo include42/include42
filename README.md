@@ -22,36 +22,15 @@ Spring Boot와 JPA를 활용하여 서버 개발 경험을 쌓아가고 있습�
 
 동료에게 열려있는, 새로운 가능성에 열려있는 사람이 되고자 합니다.
 
-[이력서 링크](https://www.notion.so/2ec1499bed7f4dc8a2c0980377c5b3d6)
-
 ---
-### Backend
-
-SpringBoot 기반으로 API 서버를 여러 차례 만들어 본 경험이 있습니다.
-테스트 코드와 문서화를 원칙으로 하고 있습니다.
-더 좋은 서버를 만들기 위해 클린 코드와 테스트 주도 개발을 적용중입니다.
-
-- **Java**
-- **SpringFramework**
-- **Spring Data JPA**
-- **JUnit**
-- Spring REST Docs
-- Logback
-- Swagger
-
-### Frontend
-
-백엔드의 기능 테스트를 위한 간단한 페이지를 구현할 정도의 스킬을 가지고 있습니다.
-Vue.JS를 통해 페이징, 검색, 게시글 및 댓글 작성/조회가 가능한 SPA 페이지를 만든 경험이 있습니다.
-
-- Javascript
-- **Vue.JS**
-
-### TODO
-
-현재 공부하고 있는 내용입니다.
-
-토이 프로젝트에 적용중이거나, 추후 적용할 예정입니다.
-
-- **Spring Batch**
-- **Spring Security**
+<!-- GH_LEE's profile -->
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=include42&show_icons=true&theme=synthwave" width=49.0% />
+</a>
+<a href="https://github.com/devpla/github-stats-transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=include42&layout=compact&theme=synthwave" width=41.0% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=include42&theme=react-dark" width=90%/>
+</a>
