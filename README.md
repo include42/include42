@@ -14,13 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 안녕하세요. 
-
-알고리즘 학습으로 프로그래밍을 시작해서, 지금은 서버 개발을 배우고 있는 개발자입니다. 
-
-Spring Boot와 JPA를 활용하여 서버 개발 경험을 쌓아가고 있습니다.
-
-동료에게 열려있는, 새로운 가능성에 열려있는 사람이 되고자 합니다.
+## 안녕하세요. 이건희입니다.
+Hi, im Geonhee Lee. GL HF!
 
 ---
 <!-- GH_LEE's profile -->
